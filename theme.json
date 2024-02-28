@@ -1,4 +1,5 @@
 {
+  "$schema": "https://raw.githubusercontent.com/FabiKel/notesnook-nyx-theme/main/theme.json",
   "name": "Nyx",
   "id": "nyx",
   "version": 0.1,
