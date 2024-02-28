@@ -1,0 +1,126 @@
+{
+  "name": "Nyx",
+  "id": "nyx",
+  "version": 0.1,
+  "license": "GPL-3.0-or-later",
+  "homepage": "https://notesnook.com",
+  "description": "A violett dark theme.",
+  "colorScheme": "dark",
+  "compatibilityVersion": 1,
+  "authors": [
+    {
+      "name": "FabiKel",
+      "email": "fabikel.seminar130@passinbox.com",
+      "url": "https://github.com/FabiKel/notesnook-nyx-theme"
+    }
+  ],
+  "scopes": {
+    "base": {
+      "primary": {
+        "accent": "#854aff",
+        "paragraph": "#D3D3D3",
+        "background": "#120821",
+        "border": "#392d55",
+        "heading": "#D3D3D3",
+        "icon": "#918F94",
+        "separator": "#392d55",
+        "placeholder": "#3e344e",
+        "hover": "#40325a",
+        "accentForeground": "#ffffff",
+        "backdrop": "#35353580"
+      },
+      "secondary": {
+        "accent": "#854aff",
+        "paragraph": "#818589",
+        "background": "#120821",
+        "border": "#34384E",
+        "heading": "#808080",
+        "icon": "#808080",
+        "separator": "#3a334f",
+        "placeholder": "#404040",
+        "hover": "#2e2039",
+        "accentForeground": "#ffffff",
+        "backdrop": "#35353580"
+      },
+      "disabled": {
+        "accent": "#854aff",
+        "paragraph": "#505050",
+        "background": "#ffffff",
+        "border": "#34384E",
+        "heading": "#212121",
+        "icon": "#808080",
+        "separator": "#34384E",
+        "placeholder": "#404040",
+        "hover": "#ffffff10",
+        "accentForeground": "#ffffff",
+        "backdrop": "#35353580"
+      },
+      "selected": {
+        "accent": "#854aff",
+        "paragraph": "#D3D3D3",
+        "background": "#312945",
+        "border": "#854aff",
+        "heading": "#e3e3e3",
+        "icon": "#854aff",
+        "separator": "#392d55",
+        "placeholder": "#392d55",
+        "hover": "#40325a",
+        "accentForeground": "#ffffff",
+        "backdrop": "#35353580"
+      },
+      "error": {
+        "accent": "#dc0546",
+        "paragraph": "#dc0546",
+        "background": "#250b0a",
+        "border": "#383838",
+        "heading": "#dc0546",
+        "icon": "#dc0546",
+        "separator": "#383838",
+        "placeholder": "#404040",
+        "hover": "#ffffff10",
+        "accentForeground": "#ffffff",
+        "backdrop": "#35353580"
+      },
+      "success": {
+        "accent": "#1c7737",
+        "paragraph": "#1c7737",
+        "background": "#132204",
+        "border": "#383838",
+        "heading": "#1c7737",
+        "icon": "#1c7737",
+        "separator": "#383838",
+        "placeholder": "#404040",
+        "hover": "#ffffff10",
+        "accentForeground": "#ffffff",
+        "backdrop": "#35353580"
+      }
+    },
+    "editor": {
+      "secondary": {
+        "background": "#160a29"
+      },
+      "selected": {
+        "background": "#522266"
+      }
+    },
+    "editorToolbar": {
+      "primary": {
+        "background": "#23103f"
+      }
+    },
+    "navigationMenu": {
+      "primary": {
+        "icon": "#D3D3D3",
+        "hover": "#40325a"
+      },
+      "selected": {
+        "icon": "#9d4aff"
+      }
+    },
+    "sheet": {
+      "selected": {
+        "paragraph": "#9d4aff"
+      }
+    }
+  }
+}
